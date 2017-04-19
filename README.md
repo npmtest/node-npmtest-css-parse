@@ -1,4 +1,7 @@
-# test coverage for  [css-parse (v2.0.0)](https://github.com/reworkcss/css-parse)  [![npm package](https://img.shields.io/npm/v/npmtest-css-parse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-parse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-parse.svg)](https://travis-ci.org/npmtest/node-npmtest-css-parse)
+# npmtest-css-parse
+
+#### test coverage for  [css-parse (v2.0.0)](https://github.com/reworkcss/css-parse)  [![npm package](https://img.shields.io/npm/v/npmtest-css-parse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-parse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-parse.svg)](https://travis-ci.org/npmtest/node-npmtest-css-parse)
+
 #### CSS parser
 
 [![NPM](https://nodei.co/npm/css-parse.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/css-parse)
